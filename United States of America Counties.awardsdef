@@ -1,0 +1,25 @@
+{
+  "numberOfQSOsRequired" : 500,
+  "awardShortName" : "USA-CA",
+  "awardWebsite" : "http:\/\/www.cq-amateur-radio.com\/cq_awards\/cq_usa_ca_awards\/cq_usa_ca_awards.html",
+  "mainQualifierKeyPathInQSO" : "callbookInfo.county",
+  "requiredFixedKeysAndValues" : {
+    "callbookInfo.country" : [
+      "United States",
+      "US",
+      "U.S.",
+      "USA",
+      "U.S.A.",
+      "United States of America",
+      "HI",
+      "Hawaii",
+      "AK",
+      "Alaska"
+    ]
+  },
+  "awardName" : "United States of America Counties",
+  "awardSponsor" : "CQ Magazine",
+  "additionalRelevantKeys" : [
+    "callbookInfo.state"
+  ]
+}

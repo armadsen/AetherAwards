@@ -1,0 +1,20 @@
+{
+  "numberOfQSOsRequired" : 100,
+  "awardShortName" : "IOTA",
+  "awardWebsite" : "http:\/\/www.rsgbiota.org\/",
+  "achievementLevels" : [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000
+  ],
+  "mainQualifierKeyPathInQSO" : "callbookInfo.island",
+  "awardName" : "IOTA Islands Of The World",
+  "awardSponsor" : "RSGB"
+}

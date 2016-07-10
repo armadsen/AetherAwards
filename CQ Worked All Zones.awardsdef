@@ -1,0 +1,8 @@
+{
+  "awardName" : "CQ Worked All Zones",
+  "awardSponsor" : "CQ Magazine",
+  "awardShortName" : "WAZ",
+  "awardWebsite" : "http:\/\/www.cq-amateur-radio.com\/wazrules.html",
+  "numberOfQSOsRequired" : 40,
+  "mainQualifierKeyPathInQSO" : "callbookInfo.cqZone"
+}

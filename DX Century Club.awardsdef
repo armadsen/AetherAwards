@@ -1,0 +1,11 @@
+{
+  "numberOfQSOsRequired" : 100,
+  "awardShortName" : "DXCC",
+  "awardWebsite" : "http:\/\/www.arrl.org\/dxcc",
+  "mainQualifierKeyPathInQSO" : "callbookInfo.dxcc",
+  "awardName" : "DX Century Club",
+  "awardSponsor" : "ARRL",
+  "additionalRelevantKeys" : [
+    "callbookInfo.country"
+  ]
+}
